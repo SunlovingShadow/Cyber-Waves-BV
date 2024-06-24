@@ -1,0 +1,8 @@
+transaction_id,date,category,amount
+TRX001,06-01-2024,Food,25
+TRX002,06-01-2024,Utilities,150
+TRX003,06-01-2024,Entertainment,200
+TRX004,06-02-2024,Food,3000
+TRX005,06-02-2024,Transport,45
+TRX006,06-03-2024,Utilities,135
+TRX007,06-03-2024,Food,20
